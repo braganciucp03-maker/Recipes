@@ -1,0 +1,17 @@
+p {
+    color: red;
+    
+}
+.ingredients {
+    border: 2px solid grey;
+    width: fit-content;
+}
+.image{
+    margin: auto;
+    border: red;
+    display: block;
+}
+h1{
+    text-align: center;
+    color: green;
+}
